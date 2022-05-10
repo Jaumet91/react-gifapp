@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jaumet91/react-gifapp/static/css/main.d10803d8.css",
+    "main.js": "/Jaumet91/react-gifapp/static/js/main.c37fc309.js",
+    "index.html": "/Jaumet91/react-gifapp/index.html",
+    "main.d10803d8.css.map": "/Jaumet91/react-gifapp/static/css/main.d10803d8.css.map",
+    "main.c37fc309.js.map": "/Jaumet91/react-gifapp/static/js/main.c37fc309.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d10803d8.css",
+    "static/js/main.c37fc309.js"
+  ]
+}
